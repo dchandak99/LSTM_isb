@@ -2,6 +2,8 @@
 
 ### Deep Learning: Applying NLP techniques to Time Series Analysis for Stock Futures 
 
+**Highlights:**
+
 - Designed and implemented an intuitive approach to storing the history of a stock in the form of a vector using a Ticker Embedding Model, similar to that in a Word Embedding model
 - Incorporated a number of technical indicators such as Momentum, Trailing Volatility, Asset Class and average return across each asset class along with these embeddings for time series analysis
 - Designed, trained and tested an LSTM classifier (built using PyTorch) on a time series of multiple stock tickers to predict the Expected Return and to study non linearity and inter asset class correlation
