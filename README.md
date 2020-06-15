@@ -1,6 +1,6 @@
 # LSTM_with_attention_for_time_series
 
-This project was done while I was an intern at ISB Hyderabad during December 2019 and Jnauray 2020.
+This project was done while I was an intern at ISB Hyderabad during December 2019 and Jnauray 2020. I also received a [Letter of Recommendation](LOR_ISB.pdf) for my work.
 
 ### Deep Learning: Applying NLP techniques to Time Series Analysis for Stock Futures 
 
